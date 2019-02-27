@@ -1,0 +1,9 @@
+<template name="list">
+  <ul class="list">
+    {{#each item in this}}
+      <li class="list-item">
+        {{> card item }}
+      </li>
+    {{/each}}
+  </ul>
+</template>

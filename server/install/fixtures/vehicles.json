@@ -1,0 +1,259 @@
+[
+	{
+		"_id": "7RvcpWsWdm9j3C7e9",
+		"pk": 4,
+		"vehicle_class": "wheeled",
+		"pilots": []
+	},
+	{
+		"_id": "y4zFdcdvbL55D3o5w",
+		"pk": 6,
+		"vehicle_class": "repulsorcraft",
+		"pilots": []
+	},
+	{
+		"_id": "2dJApLr3SFn4Qvxy9",
+		"pk": 7,
+		"vehicle_class": "repulsorcraft",
+		"pilots": []
+	},
+	{
+		"_id": "HYm48gvFxJt55hgRZ",
+		"pk": 8,
+		"vehicle_class": "starfighter",
+		"pilots": []
+	},
+	{
+		"_id": "BhzbNbemxAKN75gTf",
+		"pk": 14,
+		"vehicle_class": "airspeeder",
+		"pilots": [
+			"7jLRwc4B5KmJiBzRb",
+			"BpavbJSufxtckm84m"
+		]
+	},
+	{
+		"_id": "8aoWM4K9xk9S8JyRp",
+		"pk": 16,
+		"vehicle_class": "space/planetary bomber",
+		"pilots": []
+	},
+	{
+		"_id": "Aobu4yvJcQbW8tWhQ",
+		"pk": 18,
+		"vehicle_class": "assault walker",
+		"pilots": []
+	},
+	{
+		"_id": "5SotGvEJwSFChhtwC",
+		"pk": 19,
+		"vehicle_class": "walker",
+		"pilots": [
+			"8shW5BkxbqRwYEjW4"
+		]
+	},
+	{
+		"_id": "6SdW9oxoGdwySjzNL",
+		"pk": 20,
+		"vehicle_class": "repulsorcraft",
+		"pilots": []
+	},
+	{
+		"_id": "QpYQ7rBfsNxtLXJJW",
+		"pk": 24,
+		"vehicle_class": "sail barge",
+		"pilots": []
+	},
+	{
+		"_id": "LxmW2Kb5sf4KadRt4",
+		"pk": 25,
+		"vehicle_class": "repulsorcraft cargo skiff",
+		"pilots": []
+	},
+	{
+		"_id": "JCJ7jFzzSS6nWEiTi",
+		"pk": 26,
+		"vehicle_class": "starfighter",
+		"pilots": []
+	},
+	{
+		"_id": "oGp4ucte8vNjat93H",
+		"pk": 30,
+		"vehicle_class": "speeder",
+		"pilots": [
+			"7jLRwc4B5KmJiBzRb",
+			"hPYKJGT3tWa7uMoow"
+		]
+	},
+	{
+		"_id": "WPL5ZoHdm2tnx76gK",
+		"pk": 33,
+		"vehicle_class": "starfighter",
+		"pilots": []
+	},
+	{
+		"_id": "srqQEQWfru3Xo7itB",
+		"pk": 34,
+		"vehicle_class": "repulsorcraft",
+		"pilots": []
+	},
+	{
+		"_id": "eqwMyTdRWTXYcSGS7",
+		"pk": 35,
+		"vehicle_class": "repulsorcraft",
+		"pilots": []
+	},
+	{
+		"_id": "r2WaTeNGLhbfv9rud",
+		"pk": 36,
+		"vehicle_class": "repulsorcraft",
+		"pilots": []
+	},
+	{
+		"_id": "wxwmKGXntoFRcWr22",
+		"pk": 37,
+		"vehicle_class": "landing craft",
+		"pilots": []
+	},
+	{
+		"_id": "ka9ENQBT8dWr6rAi7",
+		"pk": 38,
+		"vehicle_class": "submarine",
+		"pilots": [
+			"xBajH9FoAc9jbDQXq",
+			"7XN27vKFLvy69eXEG"
+		]
+	},
+	{
+		"_id": "W2SWzCxJahM8F22LH",
+		"pk": 42,
+		"vehicle_class": "speeder",
+		"pilots": [
+			"SCrmLqJkxCE92i8uW"
+		]
+	},
+	{
+		"_id": "XMYbM99h8rsfn2bQo",
+		"pk": 44,
+		"vehicle_class": "repulsorcraft",
+		"pilots": [
+			"WnfWLFDry2STQ8NMw"
+		]
+	},
+	{
+		"_id": "YqMrM8DX6EqGyo9KD",
+		"pk": 45,
+		"vehicle_class": "airspeeder",
+		"pilots": [
+			"G6vApcBNmMsDuFLbT"
+		]
+	},
+	{
+		"_id": "bwDagQLMqPJD4tCdv",
+		"pk": 46,
+		"vehicle_class": "airspeeder",
+		"pilots": [
+			"WnfWLFDry2STQ8NMw"
+		]
+	},
+	{
+		"_id": "2SocriLKnSwmBGe2h",
+		"pk": 50,
+		"vehicle_class": "gunship",
+		"pilots": []
+	},
+	{
+		"_id": "ZLPv6jMyGwj2nzmaz",
+		"pk": 51,
+		"vehicle_class": "gunship",
+		"pilots": []
+	},
+	{
+		"_id": "wXSttRxPvy6dpQm3f",
+		"pk": 53,
+		"vehicle_class": "walker",
+		"pilots": []
+	},
+	{
+		"_id": "H78m3JhzXEcbMxpti",
+		"pk": 54,
+		"vehicle_class": "walker",
+		"pilots": []
+	},
+	{
+		"_id": "eTEoouk5fQTK6syWw",
+		"pk": 55,
+		"vehicle_class": "speeder",
+		"pilots": [
+			"TRrcWdaRSLntZ4xY6"
+		]
+	},
+	{
+		"_id": "z5X6qXKngX6RMWSJg",
+		"pk": 56,
+		"vehicle_class": "transport",
+		"pilots": []
+	},
+	{
+		"_id": "rsG3u2NMJsNmgE8v7",
+		"pk": 57,
+		"vehicle_class": "starfighter",
+		"pilots": []
+	},
+	{
+		"_id": "Cqr8S8zzZwn3Yksjt",
+		"pk": 60,
+		"vehicle_class": "wheeled walker",
+		"pilots": [
+			"rJTFdxgqvtyqMThJy"
+		]
+	},
+	{
+		"_id": "YTjdZrRrTKCSAKnbK",
+		"pk": 62,
+		"vehicle_class": "fire suppression ship",
+		"pilots": []
+	},
+	{
+		"_id": "ijFM6hb5WtNxLeMyB",
+		"pk": 67,
+		"vehicle_class": "droid starfighter",
+		"pilots": []
+	},
+	{
+		"_id": "3tFExr2kMMFW9YBKB",
+		"pk": 69,
+		"vehicle_class": "airspeeder",
+		"pilots": []
+	},
+	{
+		"_id": "aZJyYM389C2vWwe6R",
+		"pk": 70,
+		"vehicle_class": "air speeder",
+		"pilots": []
+	},
+	{
+		"_id": "Fhg9AbAP77GNu3xNo",
+		"pk": 71,
+		"vehicle_class": "wheeled walker",
+		"pilots": []
+	},
+	{
+		"_id": "H7LChPcaeJPAoa7hn",
+		"pk": 72,
+		"vehicle_class": "droid tank",
+		"pilots": []
+	},
+	{
+		"_id": "tyEdqCbPKEeAwuhLW",
+		"pk": 73,
+		"vehicle_class": "airspeeder",
+		"pilots": []
+	},
+	{
+		"_id": "frBpnrKFofmfFXyQv",
+		"pk": 76,
+		"vehicle_class": "walker",
+		"pilots": []
+	}
+]
